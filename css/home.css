@@ -1,0 +1,19 @@
+img {
+    width:          100px;
+    height:         100px;
+    object-fit:     contain;
+    border-radius:  50px;
+    float:          left;
+    margin-right:   10px;
+    margin-left:    200px;
+}
+
+p.portalname {
+    font-weight:    bold;
+    margin-bottom:  100px;
+}
+
+a {
+    font-weight:    bold;
+    margin-right:   10px;
+}
